@@ -1,5 +1,5 @@
 import datetime
-echo "Group 2 Assignment"
+//echo "Group 2 Assignment"
 print("Group 2 Assignment")
 now = datetime.datetime.now()
 print ("Current date and time is ")
